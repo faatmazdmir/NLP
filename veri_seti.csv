@@ -1,0 +1,552 @@
+metin,kelimeler,departman
+"Kahramanmaraş'ta çöp toplama sık sık aksıyor,mahallemiz kokudan geçilmiyor.","['çöp toplama','koku']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Yol yapım çalışmaları çok yavaş ilerliyor,tozdan geçilmiyor.","['yol yapım','toz']","Yol Yapım Bakım ve Onarım Dairesi Başkanlığı"
+
+"Parklarda yeterli bakım yapılmıyor.","['park bakımı']","Park ve Bahçeler Müdürlüğü"
+
+"Ulaşım araçları çok kalabalık,otobüs duraklarında uzun süre bekliyoruz.","['ulaşım']","Ulaşım Dairesi Başkanlığı"
+
+"Kışın kar temizleme çalışmaları yetersiz,yollar çok geç açılıyor.","['kar temizleme','yol']","Yol Yapım Bakım ve Onarım Dairesi Başkanlığı"
+
+"Belediye parklarında güvenlik sorunu var,huzursuz hissediyoruz.","['park güvenliği']","Park ve Bahçeler Müdürlüğü"
+
+"Belediye otobüslerinin sefer saatleri düzenli değil.","['otobüs seferleri']","Ulaşım Dairesi Başkanlığı"
+
+"Çevre temizliği konusunda yetersiz kalınıyor,özellikle piknik alanları çok kirli.","['çevre temizliği']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Kahramanmaraş'ta yeşil alanlar yetersiz.","['yeşil alan']","Park ve Bahçeler Müdürlüğü"
+
+"Belediye web sitesi kullanışlı değil,bilgiye ulaşmak zor.","['web sitesi kullanımı']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Kahramanmaraş'ta kültürel etkinlikler yetersiz.","['kültürel etkinlikler']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Son zamanlarda şehrin birçok noktasında çöp konteynerlerinin yetersiz olması ve çöplerin zamanında toplanmaması nedeniyle çevre kirliliği ciddi bir sorun haline geldi.Özellikle sıcak havalarda kötü kokular ve sinek istilası yaşanıyor.Belediyenin bu konuda daha sıkı önlemler alması gerekiyor.","['çöp toplama','çöp konteynerler']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Yaşadığım mahallede bulunan parkın bakımsız olması ve oyun gruplarının güvensiz olması nedeniyle çocuklarımızı rahatlıkla oynatamamaktayız.Parkın zemin döşemesi bozulmuş, oyun aletleri paslanmış ve kırılmış durumda. Belediyeden parkın yenilenmesini ve güvenli hale getirilmesini talep ediyoruz","['park yenilemesi']","Park ve Bahçeler Müdürlüğü"
+
+"Kış aylarında şehir merkezinde yaşanan kar yağışları sonrası yolların uzun süre temizlenmemesinden dolayı ulaşımımız büyük ölçüde zorlaşıyor. Özellikle okullara giden çocuklarımızın güvenliği için yolların kar yağışından hemen sonra temizlenmesi gerekiyor.","['kar temizliği']","Yol Yapım Bakım Ve Onarım Dairesi Başkanlığı"
+
+"Otopark sorunu büyüyor, araçlarımızı park edecek yer bulamıyoruz.","['otopark']","Ulaşım Dairesi Başkanlığı"
+
+"Altyapı çalışmaları çok yavaş ilerliyor,yollar sürekli kazılıyor.","['altyapı çalışmaları']","Fen İşleri Dairesi Başkanlığı"
+
+"Belediye etkinlikleri yetersiz,sosyal aktivitelerimiz kısıtlı.","['sosyal aktivite']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Geri dönüşüm hizmetleri yetersiz, atıklarımızı ayrıştırmakta zorlanıyoruz.","['geri dönüşüm']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Toplu taşıma araçları eski ve konforsuz, seyahat etmek zorlaşıyor.","['toplu taşıma araçları']","Ulaşım Dairesi Başkanlığı"
+
+"Şehrimizde su baskınları sıkça yaşanıyor, altyapı yeterli değil.","['su baskınları']","Fen İşleri Dairesi Başkanlığı"
+
+"Park yerlerinde ışıklandırma yetersiz bu yüzden geceleri güvensiz hissediyoruz.","['park yeri']","Park ve Bahçeler Müdürlüğü"
+
+"Şehirde düzenli etkinlikler yapılmıyor, kültürel aktiviteler eksik.","['kültürel aktiviteler']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Sokaklarda temizlik personeli eksik, çöpler birikiyor.","['temizlik personeli','çöp']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Okul çevresindeki trafik düzenlemesi eksik,çocukların güvenliği tehlikede.","['trafik düzenlemesi']","Ulaşım Dairesi Başkanlığı"
+
+"Şehir merkezinde park yeri bulmak imkansız, otopark sorunu büyüyor.","['park yeri sorunu','otopark']","Ulaşım Dairesi Başkanlığı"
+
+"Sokaklarda temizlik hizmetleri yetersiz, çöpler birikiyor.","['sokak temizliği','çöp']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Kışın kar temizleme işlemleri zamanında yapılmıyor, yollar kaygan ve tehlikeli.","['kar temizleme','yollar']","Fen İşleri Dairesi Başkanlığı"
+
+"Çevre kirliliği sorununu çözmek için daha fazla geri dönüşüm kutusu ve bilgilendirme yapılmalı.","['çevre kirliliği','geri dönüşüm kutusu']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Belediyenin internet sitesi güncel değil, bilgiye erişim zorlaşıyor.","['internet sitesi','bilgi']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Parklardaki spor alanları ve yürüyüş parkurları bakımsız.","['park','yürüyüş parkurları']","Park ve Bahçeler Müdürlüğü"
+
+"Çöp konteynerlerinin yetersizliği nedeniyle çöpler sokaklarda birikiyor.","['çöp','çöp konteynerleri']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Tıbbi atıkların düzenli toplanmaması sağlık risklerini artırıyor.","['tıbbi atıklar']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Toplu taşıma araçlarının sayısı artırılmalı, özellikle yoğun saatlerde kapasite yetersiz.","['toplu taşıma']","Ulaşım Dairesi Başkanlığı"
+
+"Şehirdeki sosyal etkinlikler ve festivallerin sıklığı artırılmalı, toplumsal etkinlikler az.","['sosyal etkinlikler']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Geri dönüşüm kampanyaları yetersiz, halkın çevre bilinci düşük.","['geri dönüşüm']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Bölgesel ulaşım projeleri yetersiz, şehirlerarası bağlantılar güçlükle sağlanıyor.","['bölgesel ulaşım','şehirlerarası']","Ulaşım Dairesi Başkanlığı"
+
+"Belediye parklarında yapılan temizlik ve bakım işleri yetersiz,vatandaşlar bu konuda şikayetçi.","['bakım işleri','temizlik']","Park ve Bahçeler Müdürlüğü"
+
+"Trafik düzenlemesi için yenilikçi çözümler uygulanmalı,trafik sıkışıklığı azaltılmalı.","['trafik düzenlemesi','trafik sıkışıklığı']","Ulaşım Dairesi Başkanlığı"
+
+"Belediye tarafından düzenlenen kurslar ve seminerler daha fazla çeşitlendirilmelidir.","['kurslar','seminerler']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Gençler için kültürel ve sosyal alanlar oluşturulmalı, gençlerin sosyal yaşantısı desteklenmeli.","['sosyal alanlar']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Belediyenin eğlence merkezleri ve aktiviteleri artırılmalı,halkın boş zamanlarını değerlendirmesi sağlanmalı.","['eğlence merkezleri','aktiviteler']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Şehirdeki yaya geçitleri daha güvenli hale getirilmeli, kazalar azaltılmalı.","['yaya geçitleri','kazalar']","Ulaşım Dairesi Başkanlığı"
+
+"Şehirdeki kütüphaneler ve bilgi merkezleri daha fazla kaynak ve hizmet sunmalı.","['kütüphaneler','bilgi merkezleri']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Toplu taşıma araçlarında hijyen standartları artırılmalı,temizliğe dikkat edilmeli.","['toplu taşıma araçları']","Ulaşım Dairesi Başkanlığı"
+
+"Belediyenin e-imza sistemi üzerinden yapılan işlemlerde sürekli sorunlar yaşamaktayım.Bu durum işlerimde önemli gecikmelere neden olmakta ve beni mağdur etmektedir.Sistemin daha stabil hale getirilmesi ve e-imza işlemlerinin sorunsuz bir şekilde gerçekleştirilmesi için gerekli çalışmaların yapılması gerekmektedir.","['e-imza']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Belediyenizin mobil uygulamasını kullanmaktayım ancak uygulama sık sık çökmekte ve bildirimler gelmemektedir. Uygulamanın daha stabil hale getirilmesi ve bildirim sorunlarının çözülmesi için gerekli çalışmaların yapılması gerekmektedir.","['mobil uygulama']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Parklarımızda atık kağıtlar ve sigara izmaritleri çok fazla.Temizlik sıklığı artırılmalı.","['atık kağıtlar','temizlik']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Bilgisayarım ağ bağlantısı sorunuyla karşılaşıyor, yardıma ihtiyacım var.","['ağ bağlantısı']","Bilgi İşlem Dairesi Başkanlığı"
+
+"IT departmanı ile iletişime geçmek istiyorum, nasıl bir yol izlemeliyim?","['IT iletişim']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Belediye sistemlerine giriş yapamıyorum, destek talep ediyorum.","['sistem giriş']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Evin etrafında su baskını var, itfaiye ekipleri gelmeli.","['su baskını','itfaiye']","İtfaiye ve Afet İşleri Dairesi Başkanlığı"
+
+"Acil durumlarda hangi numarayı aramalıyım?","['acil durum']","İtfaiye ve Afet İşleri Dairesi Başkanlığı"
+
+"Yangın tatbikatları ve eğitimleri hakkında bilgi almak istiyorum.","['yangın tatbikatları']","İtfaiye ve Afet İşleri Dairesi Başkanlığı"
+
+"İtfaiye araçlarının bakım ve servisleri hakkında bilgi almak istiyorum.","['itfaiye araçları']","İtfaiye ve Afet İşleri Dairesi Başkanlığı"
+
+"Belediye vergi borcum hakkında detaylı bilgi almak istiyorum.","['vergi']","Mali Hizmetler Dairesi Başkanlığı"
+
+"Faturamda fazla ödeme yapıldığına dair bir hata var, düzeltilmesini talep ediyorum.","['fatura']","Mali Hizmetler Dairesi Başkanlığı"
+
+"Mali yardım başvurusu nasıl yapılır, süreç hakkında bilgi almak istiyorum.","['mali yardım']","Mali Hizmetler Dairesi Başkanlığı"
+
+"Belediyenin mali raporları nasıl elde edilir, bana bilgi verir misiniz?","['mali raporlar']","Mali Hizmetler Dairesi Başkanlığı"
+
+"Ödeme planım hakkında bilgi almak istiyorum, nasıl yardımcı olabilirsiniz?","['ödeme planı']","Mali Hizmetler Dairesi Başkanlığı"
+
+"İş yerimin önündeki izinsiz reklamlar konusunda zabıtadan yardım istiyorum.","['izinsiz reklamlar']","Zabıta Dairesi Başkanlığı"
+
+"Gürültü kirliliği şikayetimi zabıtaya iletmek istiyorum, ne yapmalıyım?","['gürültü kirliliği']","Zabıta Dairesi Başkanlığı"
+
+"Zabıta denetimleri hakkında bilgi almak istiyorum, ne sıklıkla yapılıyor?","['zabıta denetimleri']","Zabıta Dairesi Başkanlığı"
+
+"İş yerimdeki yangın güvenlik önlemleri hakkında denetim yapılmasını talep ediyorum.","['yangın denetimi']","Zabıta Dairesi Başkanlığı"
+
+"Sokak lambaları arızalı, tamir edilmesi gerekiyor.","['sokak lambaları']","Fen İşleri Dairesi Başkanlığı"
+
+"Yol kaplama ve asfalt işleri hakkında bilgi almak istiyorum.","['asfalt işleri','yol kaplama']","Fen İşleri Dairesi Başkanlığı"
+
+"Kaldırımların bakımı yapılmalı, bazı yerlerde büyük çatlaklar var.","['kaldırım bakımı']","Fen İşleri Dairesi Başkanlığı"
+
+"Sokak aydınlatmasıyla ilgili sorunlar yaşanıyor, ne zaman onarılacak?","['sokak aydınlatma']","Fen İşleri Dairesi Başkanlığı"
+
+"İmar planı ile ilgili değişiklik taleplerimi nasıl iletebilirim?","['imar planı']","İmar ve Şehircilik Dairesi Başkanlığı"
+
+"Şehir planlaması hakkında bilgi almak istiyorum, hangi projeler var?","['şehir planlaması']","İmar ve Şehircilik Dairesi Başkanlığı"
+
+"Yeniden yapılanma projeleri hakkında bilgi almak istiyorum.","['yeniden yapılanma']","İmar ve Şehircilik Dairesi Başkanlığı"
+
+"Yeni inşaat izinleri nasıl alınır, süreç nedir?","['inşaat izinleri']","İmar ve Şehircilik Dairesi Başkanlığı"
+
+"Kuzey ilçelerinde yol bakım çalışmaları yetersiz, birçok yol kötü durumda ve ulaşım zorlaşıyor.","['kuzey ilçeleri yol bakım']","Kuzey İlçeleri Dairesi Başkanlığı"
+
+"Kuzey ilçelerinde sosyal hizmetler eksik,özellikle yaşlılar ve engelliler için yeterli destek sunulmuyor.","['kuzey ilçeler sosyal hizmetler']","Kuzey İlçeleri Dairesi Başkanlığı"
+
+"Kuzey ilçelerinde altyapı çalışmaları ne zaman başlayacak?","['kuzey ilçeleri altyapı']","Kuzey İlçeleri Dairesi Başkanlığı"
+
+"Ulaşım güzergahları hakkında bilgi almak istiyorum.","['ulaşım güzergahları']","Ulaşım Dairesi Başkanlığı"
+
+"Toplu taşıma araçlarında yaşanan problemler hakkında şikayette bulunmak istiyorum.","['toplu taşıma']","Ulaşım Dairesi Başkanlığı"
+
+"Ulaşım hizmetlerinin iyileştirilmesi için önerilerde bulunmak istiyorum.","['ulaşım hizmetleri']","Ulaşım Dairesi Başkanlığı"
+
+"Yol kaplama çalışmaları hakkında bilgi almak istiyorum.","['yol kaplama']","Yol Yapım Bakım ve Onarım Dairesi Başkanlığı"
+
+"Kötü durumdaki yolların onarılması için ne zaman çalışma yapılacak?","['yol onarımı']","Yol Yapım Bakım ve Onarım Dairesi Başkanlığı"
+
+"Yol yapım projelerinin durumu hakkında bilgi almak istiyorum.","['yol yapım projeleri']","Yol Yapım Bakım ve Onarım Dairesi Başkanlığı"
+
+"Yol bakım çalışmalarının planı nedir, hangi yollar öncelikli olarak ele alınacak?","['yol bakım']","Yol Yapım Bakım ve Onarım Dairesi Başkanlığı"
+
+"Belediye duyuruları ve basın bültenlerini nasıl alabilirim?","['duyurular','basın bültenleri']","Basın Yayın ve Halkla İlişkiler Dairesi Başkanlığı"
+
+"Basın toplantıları hakkında bilgi almak istiyorum, nasıl katılabilirim?","['basın toplantıları']","Basın Yayın ve Halkla İlişkiler Dairesi Başkanlığı"
+
+"Belediye etkinlikleri hakkında medya aracılığıyla bilgi almak istiyorum.","['medya']","Basın Yayın ve Halkla İlişkiler Dairesi Başkanlığı"
+
+"Halkla ilişkiler stratejileri hakkında bilgi talep ediyorum.","['halkla ilişkiler']","Basın Yayın ve Halkla İlişkiler Dairesi Başkanlığı"
+
+"Geri dönüşüm programlarına nasıl katılabilirim?","['geri dönüşüm']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Sıfır atık projeleri hakkında bilgi almak istiyorum.","['sıfır atık projeleri']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Çevre kirliliği ile ilgili yaşadığım sorunları bildirmek istiyorum.","['çevre kirliliği']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Geri dönüşüm kutularının yerleri hakkında bilgi almak istiyorum.","['geri dönüşüm kutuları']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Sosyal hizmetler ve yardım başvuruları hakkında bilgi almak istiyorum.","['sosyal hizmetler']","Kadın Aile ve Sosyal Hizmetler Dairesi Başkanlığı"
+
+"Kadın ve aile sağlığı ile ilgili sağlık hizmetleri hakkında bilgi almak istiyorum.","['aile sağlığı']","Kadın Aile ve Sosyal Hizmetler Dairesi Başkanlığı"
+
+"Sosyal yardım ve destek programlarına başvurmak istiyorum.","['sosyal yardım']","Kadın Aile ve Sosyal Hizmetler Dairesi Başkanlığı"
+
+"Tarım projeleri ve destekleri hakkında bilgi almak istiyorum.","['tarım projeleri']","Tarımsal Hizmetler ve Muhtarlıklar Dairesi Başkanlığı"
+
+"Muhtarlık hizmetleri ile ilgili başvurular nasıl yapılır?","['muhtarlık hizmetleri']","Tarımsal Hizmetler ve Muhtarlıklar Dairesi Başkanlığı"
+
+"Muhtarlık hizmetlerinden yararlanmak için gerekli adımlar nelerdir?","['muhtarlık hizmetleri']","Tarımsal Hizmetler ve Muhtarlıklar Dairesi Başkanlığı"
+
+"Tarım arazilerinin bakımı ve destekleri hakkında bilgi almak istiyorum.","['tarım arazileri']","Tarımsal Hizmetler ve Muhtarlıklar Dairesi Başkanlığı"
+
+"Belediyenin destek hizmetleri hakkında bilgi almak istiyorum.","['destek hizmetleri']","Destek Hizmetleri Dairesi Başkanlığı"
+
+"Destek hizmetleri için başvuru nasıl yapılır, süreç nedir?","['destek hizmetleri']","Destek Hizmetleri Dairesi Başkanlığı"
+
+"Uluslararası işbirlikleri ve projeler hakkında bilgi almak istiyorum.","['uluslararası işbirlikleri','uluslararası projeler']","Dış İlişkiler Dairesi Başkanlığı"
+
+"Dış ilişkiler ve yabancı ziyaretçiler hakkında bilgi almak istiyorum.","['dış ilişkiler','yabancı ziyaretçiler']","Dış İlişkiler Dairesi Başkanlığı"
+
+"Uluslararası toplantılar ve etkinlikler hakkında bilgi almak istiyorum.","['uluslararası toplantılar']","Dış İlişkiler Dairesi Başkanlığı"
+
+"Dış ilişkilerle ilgili genel bilgi ve süreçler hakkında bilgi almak istiyorum.","['dış ilişkiler']","Dış İlişkiler Dairesi Başkanlığı"
+
+"Belediyede eğitim programları ve kurslar hakkında bilgi almak istiyorum.","['eğitim projeleri']","İnsan Kaynakları ve Eğitim Dairesi Başkanlığı"
+
+"İnsan kaynakları politikaları ve işe alım süreçleri hakkında bilgi almak istiyorum.","['insan kaynakları']","İnsan Kaynakları ve Eğitim Dairesi Başkanlığı"
+
+"Kariyer geliştirme fırsatları hakkında bilgi almak istiyorum.","['kariyer geliştirme']","İnsan Kaynakları ve Eğitim Dairesi Başkanlığı"
+
+"İnsan kaynakları departmanıyla ilgili sorunlarımı bildirmek istiyorum.","['insan kaynakları departmanı']","İnsan Kaynakları ve Eğitim Dairesi Başkanlığı"
+
+"Belediye kültürel etkinlikleri hakkında bilgi almak istiyorum.","['kültürel etkinlikler']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Gençlik projeleri ve spor etkinlikleri hakkında detaylı bilgi almak istiyorum.","['gençlik projeleri','spor etkinlikleri']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Kültürel projeler ve başvurular hakkında bilgi almak istiyorum.","['kültürel projeler']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Spor etkinliklerine nasıl katılabilirim?","['spor etkinlikleri']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Belediyenin resmi web sitesi sık sık erişime kapalı veya yavaş çalışıyor. Özellikle e-devlet entegrasyonlarında sorunlar yaşanıyor.","['belediye web site']","Bilgi İşlem Dairesi Başkanlığı"
+
+"E-posta sisteminde sürekli sorunlar yaşanıyor. Gönderilen mailler alıcıya ulaşmıyor veya gelen kutular spam mesajlarla doluyor.","['e-posta sistemi']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Belediye hizmetleriyle ilgili online başvurularımızı yaptığımız sistemler kullanışsız ve karmaşık.","['online başvuru']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Belediye binalarındaki bilgisayar ve yazıcıların teknik sorunları nedeniyle işlerimiz aksıyor.","['teknik sorunlar']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Belediyenin sosyal medya hesaplarında paylaşılan bilgiler güncel değil ve vatandaşları doğru yönlendirmiyor.","['belediye sosyal medya hesabı']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Afet durumlarında vatandaşlara gerekli bilgilendirme ve destek sağlanamıyor.","['afet durumları']","İtfaiye ve Afet İşleri Dairesi Başkanlığı"
+
+"Afetlere hazırlık konusunda yeterli tatbikatlar yapılmıyor.","['afet']","İtfaiye ve Afet İşleri Dairesi Başkanlığı"
+
+"Sel deprem gibi doğal afetlere karşı alınan önlemler yetersiz.","['doğal afet']","İtfaiye ve Afet İşleri Dairesi Başkanlığı"
+
+"Ödeme işlemleri sırasında uzun kuyruklar oluşuyor ayrıca online ödeme sistemleri yetersiz.","['ödeme işlemleri','online ödeme sistemleri']","Mali Hizmetler Dairesi Başkanlığı"
+
+"Belediye bütçesinin şeffaf bir şekilde vatandaşlara açıklanması gerekiyor.","['belediye bütçesi']","Mali Hizmetler Dairesi Başkanlığı"
+
+"Belediye kaynaklarının etkin kullanımı konusunda şüphelerimiz var.","['belediye kaynakları']","Mali Hizmetler Dairesi Başkanlığı"
+
+"Belediye gelirlerinin nereye harcandığı konusunda detaylı bilgi alamıyoruz.","['belediye gelirleri']","Mali Hizmetler Dairesi Başkanlığı"
+
+"Sokak satıcıları ve ruhsatsız iş yerleri konusunda yeterli denetim yapılmıyor.","['sokak satıcıları','ruhsatsız iş yerleri']","Zabıta Dairesi Başkanlığı"
+
+"Gürültü kirliliği ve çevreye rahatsızlık veren durumlar hakkında yapılan şikayetlere gereken ilgi gösterilmiyor.","['gürültü kirliliği']","Zabıta Dairesi Başkanlığı"
+
+"Hayvan hakları konusunda hassasiyet gösterilmiyor ve sokak hayvanları yeterince korunmuyor.","['hayvan hakları']","Zabıta Dairesi Başkanlığı"
+
+"Park ve bahçelerde izinsiz araç parkı yapanlara ceza kesilmiyor.","['izinsiz araç park']","Zabıta Dairesi Başkanlığı"
+
+"Şehir merkezindeki bazı bölgelerde güvenlik zafiyeti yaşanıyor.","['güvenlik']","Zabıta Dairesi Başkanlığı"
+
+"Şehirdeki yolların bakım ve onarımı düzenli yapılmıyor çukurlar ve bozukluklar nedeniyle kazalar meydana geliyor.","['çukur','yol bakım','onarım']","Fen İşleri Dairesi Başkanlığı"
+
+"Kaldırımların durumu kötü bu yüzden engelli vatandaşların ulaşımı zorlaşıyor.","['kaldırım']","Fen İşleri Dairesi Başkanlığı"
+
+"Şehir aydınlatmalarında sık sık arızalar oluyor bazı sokaklar karanlık kalıyor.","['şehir aydınlatmaları']","Fen İşleri Dairesi Başkanlığı"
+
+"Yağmur yağdığında bazı bölgelerde su birikintileri oluşuyor ve ulaşım güçleşiyor.","['su birikintileri']","Fen İşleri Dairesi Başkanlığı"
+
+"Evimizin önündeki çöp konteyneri taştı, kötü koku yayılıyor.","['çöp konteyneri','koku']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Parklardaki köpek dışkıları temizlenmiyor, hijyen koşulları kötü.","['hijyen','park']","Park ve Bahçeler Müdürlüğü"
+
+"Dere yatakları temizlenmediği için su birikintileri oluşuyor ve sivrisinek üremesi artıyor.","['su birikintileri']", "Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Havadaki kirlilik seviyesi arttı, solunum sorunları yaşıyoruz.","['hava kirliliği']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Toplu taşıma araçları sefer saatlerine uymuyor, sürekli gecikmeler oluyor.","['toplu taşıma sefer saatleri']", "Ulaşım Dairesi Başkanlığı"
+
+"Otobüs durakları yetersiz ve bakımsız, bekleme alanları yok.","['otobüs durakları']", "Ulaşım Dairesi Başkanlığı"
+
+"Trafik işaretleri yetersiz, kazalar sıkça meydana geliyor.","['trafik işaretleri','kazalar']","Ulaşım Dairesi Başkanlığı"
+
+"Bisiklet yolları eksik, bisikletlilerin güvenliği sağlanmıyor.","['bisiklet yolları']","Ulaşım Dairesi Başkanlığı"
+
+"Kanalizasyon sisteminde sık sık tıkanıklık oluyor, kötü kokular yayılıyor.","['kanalizasyon']", "Fen İşleri Dairesi Başkanlığı"
+
+"Sokak lambaları sık sık yanıp sönüyor veya hiç yanmıyor.","['sokak lambaları']", "Fen İşleri Dairesi Başkanlığı"
+
+"Yaşlılar için yeterli sosyal etkinlik düzenlenmiyor.","['sosyal etkinlik']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Çocuk oyun parkları yetersiz ve bakımsız.","['çocuk oyun parkları']","Park ve Bahçeler Müdürlüğü"
+
+"Engelli vatandaşlar için erişilebilirlik sorunları yaşanıyor.","['engelli vatandaşlar']","Fen İşleri Dairesi Başkanlığı"
+
+"Kütüphanelerin çalışma saatleri yetersiz.","['kütüphaneler']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Yağmur yağdığında yollar çamur deryasına dönüyor, asfaltlama yapılmalı.","['yol','asfaltlama']","Fen İşleri Dairesi Başkanlığı"
+
+"Mahallemizde sürekli elektrik kesintileri yaşanıyor, yetkililerden çözüm bekliyoruz.","['elektrik kesintisi']","Fen İşleri Dairesi Başkanlığı"
+
+"Okullara giden yollar güvenli değil, çocuklarımızın güvenliği tehlikede.","['okul yolları']","Fen İşleri Dairesi Başkanlığı"
+
+"Mahallemizde yeni yapılan binalar çok katlı, imar planına uygun değil.","['imar planı']","İmar ve Şehircilik Dairesi Başkanlığı"
+
+"Şehirdeki toplu taşıma araçlarında klima çalışmıyor, yazın aşırı sıcak oluyor.","['toplu taşıma']","Ulaşım Dairesi Başkanlığı"
+
+"Şehir merkezindeki sokak lambaları yanmıyor, geceleri karanlıkta kalıyoruz.","['sokak lambaları']","Fen İşleri Dairesi Başkanlığı"
+
+"Çocuk parklarındaki oyun alanları bakımsız ve tehlikeli, yenilenmeli.","['çocuk parkı']","Park ve Bahçeler Müdürlüğü"
+
+"Belediye otobüsleri eski ve konforsuz, seferler artırılmalı.","['otobüsler']","Ulaşım Dairesi Başkanlığı"
+
+"Belediyenin eğitim hizmetleri yetersiz, daha fazla kurs açılmalı.","['eğitim hizmetleri','kurs']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Şehirde bisiklet yolları yok, bisiklet kullanmak tehlikeli.","['bisiklet yolu']","Ulaşım Dairesi Başkanlığı"
+
+"Engelli vatandaşlar için yeterli hizmet sunulmuyor.","['engelli hizmetleri']","Kadın Aile ve Sosyal Hizmetler Dairesi Başkanlığı"
+
+"Mahallemizde su şebekesi sık sık arızalanıyor, su kesintisi yaşıyoruz.","['su şebekesi','su kesintisi']","Fen İşleri Dairesi Başkanlığı"
+
+"Mahallemizdeki sokak köpekleri saldırgan, güvenliğimiz tehlikede.","['sokak köpekleri']","Zabıta Dairesi Başkanlığı"
+
+"Parklarda yeterli aydınlatma yok, akşamları güvensiz hissediyoruz.","['park aydınlatma']","Park ve Bahçeler Müdürlüğü"
+
+"Şehirdeki yeşil alanlar korunmalı ve artırılmalı, betonlaşma artıyor.","['yeşil alan']","Park ve Bahçeler Müdürlüğü"
+
+"Sokaklarımızda yeterli çöp konteyneri yok, çöpler birikiyor.","['çöp konteyneri','çöpler']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Kanalizasyon sistemi yetersiz, yağmurlarda taşkın oluyor.","['kanalizasyon','taşkın']","Fen İşleri Dairesi Başkanlığı"
+
+"Belediyenin internet sitesi güncel değil, bilgiye erişim zor.","['internet sitesi']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Mahallemizde spor tesisleri yetersiz, gençler için alanlar oluşturulmalı.","['spor tesisleri']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Belediye hizmetleri hakkında yeterli bilgilendirme yapılmıyor, iletişim eksikliği var.","['belediye hizmetleri','iletişim']","Basın Yayın ve Halkla İlişkiler Dairesi Başkanlığı"
+
+"Sokaklarda hız limitlerine uyulmuyor, trafik güvenliği tehlikede.","['trafik güvenliği']","Ulaşım Dairesi Başkanlığı"
+
+"Mahallemizde otopark alanı yok, araçlarımızı park edecek yer bulamıyoruz.","['otopark']","Ulaşım Dairesi Başkanlığı"
+
+"Belediyenin kültürel etkinlikleri yetersiz, daha fazla etkinlik yapılmalı.","['kültürel etkinlikler']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Şehirdeki spor salonları ve tesisleri bakımsız, yenilenmeli.","['spor salonları']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Yağmur suyu drenaj sistemleri yetersiz, caddeler su altında kalıyor.","['drenaj sistemi']","Fen İşleri Dairesi Başkanlığı"
+
+"Belediye otobüslerinin sefer saatleri düzensiz, daha sık olmalı.","['otobüs seferleri']","Ulaşım Dairesi Başkanlığı"
+
+"Mahallemizde sokaklar çok dar, araçlar geçemiyor, genişletme yapılmalı.","['sokak genişletme']","Fen İşleri Dairesi Başkanlığı"
+
+"Parklardaki çim alanlar bakımsız ve kurumuş, düzenli sulama yapılmalı.","['çim bakımı','sulama']","Park ve Bahçeler Müdürlüğü"
+
+"Şehirdeki otobüs durakları yetersiz, daha fazla durak yapılmalı.","['otobüs durakları']","Ulaşım Dairesi Başkanlığı"
+
+"Parklardaki oyun grupları yetersiz, çocuklarımız oynayacak yer bulamıyor.","['oyun grupları']","Park ve Bahçeler Müdürlüğü"
+
+"Sokaklarda çöp konteynerleri yetersiz, çöpler yerlerde birikiyor.","['çöp konteynerleri']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Parklarda gece ışıklandırması yetersiz.","['gece ışıklandırması']","Park ve Bahçeler Müdürlüğü"
+
+"Toplu taşıma araçları eski ve sık sık arızalanıyor.","['toplu taşıma araçları']","Ulaşım Dairesi Başkanlığı"
+
+"Mahallemizdeki yolların asfaltı bozuk, araçlarımız zarar görüyor.","['asfalt bozukluğu']","Yol Yapım Bakım ve Onarım Dairesi Başkanlığı"
+
+"Kahramanmaraş'ta kültürel etkinlikler nadiren yapılıyor,daha fazla etkinlik istiyoruz.","['kültürel etkinlikler']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Belediye otobüslerinin sefer saatleri düzensiz,sık sık gecikmeler yaşıyoruz.","['otobüs seferleri']","Ulaşım Dairesi Başkanlığı"
+
+"Parklarda spor aletleri yetersiz,daha fazla spor alanı talep ediyoruz.","['spor aletleri']","Park ve Bahçeler Müdürlüğü"
+
+"Mahallemizdeki çocuk parkı bakımsız.","['çocuk parkı']","Park ve Bahçeler Müdürlüğü"
+
+"Belediye binalarındaki bilgisayarlar çok yavaş çalışıyor,işlerimiz aksıyor.","['bilgisayar sorunları']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Mahallemizde su kesintileri sık sık yaşanıyor, çözüm istiyoruz.","['su kesintileri']","Fen İşleri Dairesi Başkanlığı"
+
+"Şehirde park yeri bulmak çok zor, otopark alanları artırılmalı.","['otopark']","Ulaşım Dairesi Başkanlığı"
+
+"Belediyenin çevre temizliği çalışmaları yetersiz, sokaklar kirli.","['çevre temizliği','kir']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Kahramanmaraş'ta altyapı sorunları nedeniyle yağmur yağdığında su baskınları oluyor.","['altyapı sorunları']","Fen İşleri Dairesi Başkanlığı"
+
+"Toplu taşıma araçlarının güzergahları sık sık değişiyor,vatandaşlar mağdur oluyor.","['toplu taşıma güzergahları']","Ulaşım Dairesi Başkanlığı"
+
+"Parklardaki banklar ve oturma alanları bakımsız, yenilenmeli.","['park bankları']","Park ve Bahçeler Müdürlüğü"
+
+"Çöp konteynerleri dolup taşıyor, daha sık boşaltılmalı.","['çöp konteynerleri']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Belediyenin web sitesinde bilgi bulmak zor, kullanıcı dostu değil.","['web sitesi']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Mahallemizdeki yolların aydınlatması yetersiz, geceleri karanlık.","['yol aydınlatması']","Fen İşleri Dairesi Başkanlığı"
+
+"Sokaklarda geri dönüşüm kutuları yok, atıklarımızı ayrıştıramıyoruz.","['geri dönüşüm kutuları','atıklar']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Kültürel etkinlikler ve sosyal aktiviteler az, daha fazla etkinlik istiyoruz.","['sosyal aktiviteler']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Mahallemizde yeşil alanlar yetersiz, daha fazla park ve bahçe istiyoruz.","['yeşil alanlar','park','bahçe']","Park ve Bahçeler Müdürlüğü"
+
+"Şehir merkezinde trafik sıkışıklığı her geçen gün artıyor, çözüm istiyoruz.","['trafik sıkışıklığı']","Ulaşım Dairesi Başkanlığı"
+
+"Şehirde bisiklet yolları eksik, bisiklet sürmek tehlikeli hale geliyor.","['bisiklet yolları']","Ulaşım Dairesi Başkanlığı"
+
+"Kahramanmaraş'ta hava kirliliği ciddi bir sorun, acil önlem alınmalı.","['hava kirliliği']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Toplu taşıma ücretleri yüksek, öğrencilere indirim yapılmalı.","['toplu taşıma ücretleri']","Ulaşım Dairesi Başkanlığı"
+
+"Şehirdeki tarihi yapılar restore edilmeli, bakımsızlık nedeniyle zarar görüyorlar.","['tarihi yapıların restorasyonu']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Şehirde kütüphane sayısı yetersiz, daha fazla kütüphane açılmalı.","['kütüphaneler']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Belediyenin düzenlediği eğitim kursları yetersiz,daha fazla eğitim fırsatı bekliyoruz.","['eğitim kursları']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Mahallemizdeki yürüyüş yolları bakımsız ve tehlikeli, yenilenmeli.","['yürüyüş yolları']","Park ve Bahçeler Müdürlüğü"
+
+"Çöp toplama saatleri düzensiz, çöpler uzun süre sokakta kalıyor.","['çöp toplama saatleri']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Parklardaki oyun alanları eski ve bakımsız, çocuklarımız için yenilenmeli.","['oyun alanları']","Park ve Bahçeler Müdürlüğü"
+
+"Mahallemizde elektrik kesintileri sık sık yaşanıyor, çözüm bekliyoruz.","['elektrik kesintileri']","Fen İşleri Dairesi Başkanlığı"
+
+"Toplu taşıma araçlarında hijyen kurallarına uyulmuyor, temizlik artırılmalı.","['toplu taşıma hijyeni']","Ulaşım Dairesi Başkanlığı"
+
+"Şehirdeki spor tesisleri yetersiz, gençler için daha fazla tesis yapılmalı.","['spor tesisleri']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Belediye otobüsleri eski ve konforsuz, yeni otobüsler alınmalı.","['belediye otobüsleri']","Ulaşım Dairesi Başkanlığı"
+
+"Şehirdeki ana caddeler ve kaldırımlar engelli erişimine uygun değil.","['engelli erişimi']","Fen İşleri Dairesi Başkanlığı"
+
+"Şehirde su kaynakları kirli, temiz içme suyu sağlanmalı.","['su kirliliği','içme suyu']","Fen İşleri Dairesi Başkanlığı"
+
+"Mahallemizdeki sokak lambaları sürekli arızalanıyor, tamir edilmeli.","['sokak lambaları']","Fen İşleri Dairesi Başkanlığı"
+
+"Belediyenin hizmetleri hakkında yeterince bilgi alamıyoruz, bilgilendirme yapılmalı.","['belediye bilgilendirmesi']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Şehirdeki ana arterlerde yaya geçitleri yetersiz, yayalar için güvenli geçişler yapılmalı.","['yaya geçitleri']","Ulaşım Dairesi Başkanlığı"
+
+"Mahallemizdeki okul önlerinde trafik güvenliği sağlanmalı, çocuklarımız tehlikede.","['okul önü trafik güvenliği']","Ulaşım Dairesi Başkanlığı"
+
+"Belediyenin kültür merkezleri yetersiz, daha fazla merkez açılmalı.","['kültür merkezleri']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Mahallemizde çöp konteynerleri yetersiz, daha fazla konteyner konulmalı.","['çöp konteynerleri']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Şehirde gürültü kirliliği ciddi bir sorun, özellikle gece saatlerinde önlem alınmalı.","['gürültü kirliliği']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Parklarımızda güvenlik sorunları yaşıyoruz, daha fazla güvenlik görevlisi istiyoruz.","['park güvenliği']","Park ve Bahçeler Müdürlüğü"
+
+"Şehirde otopark alanları yetersiz, park yeri bulmakta zorlanıyoruz.","['otopark alanları']","Ulaşım Dairesi Başkanlığı"
+
+"Belediye etkinliklerinin duyuruları yetersiz, daha etkili iletişim istiyoruz.","['etkinlik duyuruları']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Şehirdeki marketlerde fiyat denetimi yapılmalı, fahiş fiyat uygulamaları var.","['fiyat denetimi']","Zabıta Dairesi Başkanlığı"
+
+"Mahallemizde su baskınları sık sık yaşanıyor, altyapı çalışmaları yapılmalı.","['su baskınları','altyapı çalışmaları']","Fen İşleri Dairesi Başkanlığı"
+
+"Şehirde aydınlatma yetersiz, sokaklarımız karanlık ve güvensiz.","['sokak aydınlatması']","Fen İşleri Dairesi Başkanlığı"
+
+"Belediye binalarındaki hizmet noktaları yetersiz, uzun kuyruklar oluşuyor.","['hizmet noktaları']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Mahallemizdeki çocuk parkları güvenli değil, acilen bakımdan geçirilmeli.","['çocuk parkları']","Park ve Bahçeler Müdürlüğü"
+
+"Belediye otobüslerinin güzergahları yeterli değil, yeni güzergahlar eklenmeli.","['otobüs güzergahları']","Ulaşım Dairesi Başkanlığı"
+
+"Mahallemizde sokak temizliği yetersiz, çöpler birikiyor ve kötü koku oluşuyor.","['sokak temizliği']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Şehirde hava kalitesi düşük, daha fazla yeşil alan ve ağaçlandırma yapılmalı.","['hava kalitesi']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Mahallemizde gençler için sosyal aktiviteler yetersiz, yeni projeler yapılmalı.","['gençlik aktiviteleri']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Şehirdeki parklar ve bahçelerde yeterli bank yok, daha fazla oturma alanı istiyoruz.","['park ve bahçe bankları']","Park ve Bahçeler Müdürlüğü"
+
+"Belediye vergi ödeme noktaları yetersiz, online ödeme seçenekleri artırılmalı.","['vergi ödeme noktaları']","Mali Hizmetler Dairesi Başkanlığı"
+
+"Mahallemizdeki yollar bakımsız ve çukurlarla dolu, acilen onarım yapılmalı.","['yol bakımı']","Fen İşleri Dairesi Başkanlığı"
+
+"Şehirde bisiklet park yerleri yetersiz, bisiklet sürücüleri mağdur oluyor.","['bisiklet park yerleri']","Ulaşım Dairesi Başkanlığı"
+
+"Şehirde sanatsal etkinlikler yetersiz, daha fazla tiyatro ve konser düzenlenmeli.","['sanatsal etkinlikler']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Mahallemizdeki eski binalar tehlike arz ediyor, kentsel dönüşüm projeleri yapılmalı.","['kentsel dönüşüm']","Fen İşleri Dairesi Başkanlığı"
+
+"Şehirde toplu taşıma araçlarının sayısı yetersiz, seferler artırılmalı.","['toplu taşıma seferleri']","Ulaşım Dairesi Başkanlığı"
+
+"Belediye hizmet binalarında engelli tuvaletleri eksik, bu konuda düzenleme yapılmalı.","['engelli tuvaletleri']","Fen İşleri Dairesi Başkanlığı"
+
+"Şehirde otobüs durakları yetersiz ve bakımsız, yenilenmeleri gerekiyor.","['otobüs durakları']","Ulaşım Dairesi Başkanlığı"
+
+"Mahallemizde otopark sorunu var, belediye otoparkları artırılmalı.","['otopark sorunu']","Ulaşım Dairesi Başkanlığı"
+
+"Belediyenin web sitesi kullanıcı dostu değil, daha erişilebilir olmalı.","['belediye web sitesi']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Şehirdeki spor etkinlikleri yetersiz, daha fazla turnuva ve yarışma düzenlenmeli.","['spor etkinlikleri']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Mahallemizdeki çocuk oyun alanlarında güvenlik önlemleri eksik, yenileme yapılmalı.","['çocuk oyun alanları']","Park ve Bahçeler Müdürlüğü"
+
+"Mahallemizde sokak lambaları sık sık yanmıyor, karanlıkta kalıyoruz.","['sokak lambaları']","Fen İşleri Dairesi Başkanlığı"
+
+"Belediye otobüslerinde klima çalışmıyor, yaz aylarında çok zorlanıyoruz.","['otobüs kliması']","Ulaşım Dairesi Başkanlığı"
+
+"Mahallemizdeki pazar yerinde hijyen koşulları yetersiz, sağlık tehlikesi var.","['pazar hijyeni']","Zabıta Dairesi Başkanlığı"
+
+"Şehirdeki ana yollarda trafik işaretleri eksik, kazalar meydana geliyor.","['trafik işaretleri']","Ulaşım Dairesi Başkanlığı"
+
+"Belediye binasında danışma hizmeti yetersiz, bilgi almakta zorlanıyoruz.","['danışma hizmeti']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Mahallemizde toplu taşıma bekleme süreleri çok uzun, seferler sıklaştırılmalı.","['toplu taşıma süreleri']","Ulaşım Dairesi Başkanlığı"
+
+"Şehirdeki köprüler bakımsız ve güvenli değil, acilen onarılmalı.","['köprü bakımı']","Fen İşleri Dairesi Başkanlığı"
+
+"Mahallemizde ağaçlar budanmıyor, dallar yolları kapatıyor.","['ağaç budama']","Park ve Bahçeler Müdürlüğü"
+
+"Şehirde sosyal konut projeleri yetersiz, dar gelirli aileler zor durumda.","['sosyal konut projeleri']","İmar ve Şehircilik Dairesi Başkanlığı"
+
+"Mahallemizdeki sokaklar sık sık su borusu patlaması nedeniyle su altında kalıyor.","['su borusu patlaması']","Fen İşleri Dairesi Başkanlığı"
+
+"Belediye otobüslerinde engelli rampaları çalışmıyor, engelli vatandaşlar mağdur.","['engelli rampaları']","Ulaşım Dairesi Başkanlığı"
+
+"Mahallemizdeki yürüyüş yolları bakımsız ve düzensiz, yürümek zorlaşıyor.","['yürüyüş yolları']","Park ve Bahçeler Müdürlüğü"
+
+"Şehirdeki hava kirliliği ciddi boyutlarda, daha sık denetim ve önlem alınmalı.","['hava kirliliği']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Mahallemizde park alanları yok, çocuklar güvenli bir yerde oynayamıyor.","['park alanları']","Park ve Bahçeler Müdürlüğü"
+
+"Şehirdeki inşaat projeleri gece geç saatlerde devam ediyor, gürültü kirliliği yaratıyor.","['inşaat gürültüsü']","İmar ve Şehircilik Dairesi Başkanlığı"
+
+"Belediye hizmetleriyle ilgili bilgi almak için çağrı merkezi yetersiz, daha fazla personel istihdam edilmeli.","['çağrı merkezi']","Bilgi İşlem Dairesi Başkanlığı"
+
+"Şehirdeki bisiklet yolları yetersiz ve düzensiz, bisiklet sürmek tehlikeli hale geliyor.","['bisiklet yolları']","Ulaşım Dairesi Başkanlığı"
+
+"Mahallemizde kamu binalarına erişim zor, engelli asansörleri yok.","['engelli asansörleri']","Fen İşleri Dairesi Başkanlığı"
+
+"Şehirde kamu tuvaletleri yetersiz, hijyen koşulları kötü.","['kamu tuvaletleri']","Zabıta Dairesi Başkanlığı"
+
+"Belediye parklarında spor aletleri eksik, daha fazla spor aleti konulmalı.","['spor aletleri']","Park ve Bahçeler Müdürlüğü"
+
+"Mahallemizdeki yollar dar ve araç parkı sorun yaratıyor,genişletme çalışmaları yapılmalı.","['yol genişletme']","Fen İşleri Dairesi Başkanlığı"
+
+"Şehirde elektrik kesintileri sık yaşanıyor, altyapı güçlendirilmeli.","['elektrik kesintileri']","Fen İşleri Dairesi Başkanlığı"
+
+"Mahallemizdeki spor tesisleri bakımsız, kullanım zorlaşıyor.","['spor tesisleri']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
+
+"Mahallemizde pazar yerleri düzenli değil, alışveriş yaparken zorluk yaşıyoruz.","['pazar yerleri']","Zabıta Dairesi Başkanlığı"
+
+"Mahallemizde çöp toplama saatleri düzensiz, çöpler sokakta birikiyor.","['çöp toplama']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Belediye otobüsleri eski ve konforsuz, yeni otobüsler alınmalı.","['otobüs konforu']","Ulaşım Dairesi Başkanlığı"
+
+"Mahallemizde sokak tabelaları eksik, adres bulmakta zorlanıyoruz.","['sokak tabelaları']","Fen İşleri Dairesi Başkanlığı"
+
+"Şehirde su kalitesi düşük, içme suyu sağlıksız.","['su kalitesi']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Mahallemizde park yerleri aydınlatmasız, gece kullanımı güvenli değil.","['park yeri aydınlatması']","Fen İşleri Dairesi Başkanlığı"
+
+"Şehirde atık su arıtma tesisleri yetersiz, çevre kirliliği artıyor.","['atık su arıtma','çevre kirliliği']","Çevre Koruma ve Sıfır Atık Dairesi Başkanlığı"
+
+"Mahallemizde otobüs duraklarında bilgilendirme panoları yok, otobüs saatlerini öğrenemiyoruz.","['bilgilendirme panoları']","Ulaşım Dairesi Başkanlığı"
+
+"Belediye etkinliklerinde engelli vatandaşlar için düzenlemeler yetersiz, erişim sağlanmalı.","['engelli erişimi']","Kültür Gençlik ve Spor Dairesi Başkanlığı"
